@@ -1,3 +1,6 @@
+# 샘플데이터 다운로드
+<a href="https://github.com/nobaksan/fastcampus-elasticsearch-part1/releases/tag/3%EC%9E%A5"> 다운로드페이지로 이동 </a>
+
 # 고성능 검색 엔진 구축으로 한번에 끝내는 Elasticsearch
 이 코드 레포지토리는 [검색엔진 강의](https://fastcampus.co.kr/dev_online_elasticsearch) 에 필요한 예제를 담고 있습니다. 
 <a href="https://fastcampus.co.kr/dev_online_elasticsearch"><img src="https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202402/113023-924/03-커리큘럼단계.webp" alt="고성능 검색 엔진 구축으로 한번에 끝내는 Elasticsearch" height="256px" align="right"></a>
